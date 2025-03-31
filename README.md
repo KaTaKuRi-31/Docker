@@ -1,4 +1,3 @@
-# Docker
 📘 Déploiement CI/CD complet avec Docker, GitHub Actions, AWS ECR & EC2
 👤 Réalisé par : Dylan aka KaTaKuRi-31
 📦 Technologies utilisées :
