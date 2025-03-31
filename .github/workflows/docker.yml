@@ -23,3 +23,4 @@ jobs:
         IMAGE_TAG=latest
         docker build -t $ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REPOSITORY:$IMAGE_TAG
+
